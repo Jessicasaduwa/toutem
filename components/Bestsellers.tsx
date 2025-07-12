@@ -1,10 +1,7 @@
 import React from "react";
-import { IoCartOutline } from "react-icons/io5";
-import { FaPlus } from "react-icons/fa6";
 import Card from "./ui/Card";
 
 const Bestsellers = () => {
-  const currency = "$";
   return (
     <div className="relative min-h-[1130px] sm:min-h-[1000px] md:min-h-[450px] mt-20 md:mb-10 lg:mb-2">
       <img

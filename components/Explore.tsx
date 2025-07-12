@@ -11,8 +11,8 @@ const Explore = () => {
           </h1>
           <p className="text-[#9CA3AF] text-[13px]">
             Diffusing can be exactly what you need to add purpose and focus to
-            your daily tasks. We've got tons of fun diffuser blends, with scents
-            to suit every mood, day and situation.
+            your daily tasks. We&apos;ve got tons of fun diffuser blends, with
+            scents to suit every mood, day and situation.
           </p>
           <button className="quicksand-font uppercase bg-[#5FD788] hover:bg-[#48895e] transition-colors duration-300 cursor-pointer text-white text-[13px] font-semibold px-12 py-[10px] rounded-md">
             explore the collection
@@ -29,8 +29,8 @@ const Explore = () => {
           </h1>
           <p className="text-[#9CA3AF] text-[11px] font-medium max-w-3xs">
             Diffusing can be exactly what you need to add purpose and focus to
-            your daily tasks. We've got tons of fun diffuser blends, with scents
-            to suit every mood, day and situation.
+            your daily tasks. We&apos;ve got tons of fun diffuser blends, with
+            scents to suit every mood, day and situation.
           </p>
           <button className="quicksand-font uppercase bg-[#5FD788] hover:bg-[#48895e] transition-colors duration-300 cursor-pointer text-white text-[13px] font-semibold px-12 py-[10px] rounded-md">
             explore the collection
